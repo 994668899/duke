@@ -1,12 +1,19 @@
+hello !!!!   6666666
+hello !!!!   7777777
 hello !!!!
 hello !!!!
 hello !!!!
 hello !!!!
 hello !!!!
 hello !!!!
+<<<<<<< HEAD
 hello !!!!
 hello !!!!
 hello !!!!
 hello !!!!  version-3.0.0.0
 这个是一样的
 这个是第二版本
+=======
+hello !!!!	版本软件viosn-1.0.0.0
+hello !!!!
+>>>>>>> hot-fix
