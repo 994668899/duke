@@ -6,5 +6,5 @@ hello !!!!
 hello !!!!
 hello !!!!
 hello !!!!
-hello !!!!
+hello !!!!	版本软件viosn-1.0.0.0
 hello !!!!
